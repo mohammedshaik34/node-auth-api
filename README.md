@@ -51,5 +51,7 @@ Authentication system with PostgreSQL and advanced security features.
 
 ## 🚀 Getting Started
 
-Each project has its own setup instructions. Navigate to the project folder and follow the README:
+Each project has its own setup instructions. Navigate to the project folder and follow the README:#
+Clone the repository
 ```bash
+git clone https://github.com/mohammedshaik34/node-auth-api.git
